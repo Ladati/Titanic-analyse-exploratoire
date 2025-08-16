@@ -4,7 +4,7 @@
 Identifier les caractéristiques des passagers ayant survécu en les comparant à ceux qui n'ont pas survécu, à l'aide des statistiques descriptives et des visualisations graphiques. 
 
 # Contenu du dépot 
-- 'Titanic.ipynd' : le notebook jupyter contenant toutes les étapes d'analyses (exploration, nettoyage, visualisation, interprétations et conclusion).
+- `Titanic.ipynd` : le notebook jupyter contenant toutes les étapes d'analyses (exploration, nettoyage, visualisation, interprétations et conclusion).
 - `titanic3.xls` : fichier utiliser pour les analyses
 - `README.md` : le fichier de présentation
 
